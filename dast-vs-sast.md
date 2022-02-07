@@ -48,14 +48,14 @@ Dynamic code analysis can be customized depending upon the application being tes
 - 5) Repeat steps 2 and 4 for another input in the scope of application.
 You can also use open source tools to conduct dynamic code analysis for your application, based on the programming language in which the application/software is built:
 
-1. .NET
+- 1. .NET
 Microsoft IntelliTest
 Pex and Moles
 
-2. Java
+- 2. Java
 Java PathFinder
 
-3. C & C++
+- 3. C & C++
 CHAP
 KLEE
 
@@ -64,17 +64,17 @@ LLVM/Clang Sanitizers:
 AddressSanitizer
 MemorySanitizer
 ThreadSanitizer
-4. JavaScript
+- 4. JavaScript
 Iroh.js
 Jalangi2
 
-5. Python
+- 5. Python
 CrossHair
 Icontract
 Scalene
 typo
 
-6. Rust
+- 6. Rust
 MIRI
 puffin
 stuck
