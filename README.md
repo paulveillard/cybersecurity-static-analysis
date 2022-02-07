@@ -3,3 +3,4 @@
 
 
 ## What is Static Analysis?
+Static analysis is the testing and evaluation of an application by examining the code without executing the application.
