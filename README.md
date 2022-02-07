@@ -2,7 +2,7 @@
 > An ongoing & curated collection of awesome vulnerability scanning software, libraries and frameworks, best guidelines and technical resources and most important static application security testing (SAST)
 
 
-## What is Static Analysis?
+##` What is Static Analysis?`
 [Static analysis](https://www.intel.com/content/www/us/en/develop/documentation/inspector-user-guide-windows/top/getting-started/dynamic-analysis-vs-static-analysis.html) is the testing and evaluation of an application by examining the code without executing the application.
 
 ![static](https://github.com/paulveillard/cybersecurity-static-analysis/blob/main/img/static.png)
@@ -12,7 +12,7 @@ The primary advantage of static analysis: It examines all possible execution pat
 ![static-dynamic](https://github.com/paulveillard/cybersecurity-static-analysis/blob/main/img/dast_sast.jpg)
 
 
-## Table of Contents
+## `Table of Contents`
 
 #### [Programming Languages](#programming-languages-1)
 
@@ -116,7 +116,7 @@ The primary advantage of static analysis: It examines all possible execution pat
 
 ---
 
-## Programming Languages
+## `Programming Languages`
 
 <h2 id="abap">ABAP</h2>
 
