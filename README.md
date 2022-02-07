@@ -7,7 +7,9 @@
 
 ![static](https://github.com/paulveillard/cybersecurity-static-analysis/blob/main/img/static.png)
 
-The primary advantage of static analysis: It examines all possible execution paths and variable values, not just those invoked during execution. Thus static analysis can reveal errors that may not manifest themselves until weeks, months or years after release. This aspect of static analysis is especially valuable in security assurance, because security attacks often exercise an application in unforeseen and untested ways.
+## Why Static Code Analysis is important?
+
+ It examines all possible execution paths and variable values, not just those invoked during execution. Thus static analysis can reveal errors that may not manifest themselves until weeks, months or years after release. This aspect of static analysis is especially valuable in security assurance, because security attacks often exercise an application in unforeseen and untested ways.
 
 
 ## `Table of Contents`
